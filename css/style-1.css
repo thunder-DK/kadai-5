@@ -1,0 +1,91 @@
+html{
+    font-family: sans-serif,serif,fantasy;
+}
+
+#container{
+    width: 960px;
+    margin: 0 auto;
+}
+
+dl {  
+    border:1px solid #999;  
+    width:700px;
+    margin: 0 auto;
+}
+
+dt {  
+    float:left;  
+    width:200px;  
+    padding:5px 0px 5px 10px;  
+    clear:both;  
+    font-weight:bold;  
+}  
+
+dd {  
+    width:400px;  
+    margin-left:100px;  
+    padding:5px 5px 5px 10px;   
+}  
+
+
+
+table tr{
+    height: 40px;
+    margin: 30px;
+}
+
+table td{
+    width: 200px;
+    margin: 50px;
+}
+
+h1,h2,h3{
+    text-align: center;
+    margin: 30px;
+}
+
+#confirm-button{
+    padding: 20px;
+    text-align: center;
+}
+
+#introduction{
+    float: right;
+    margin-top: 10px;
+}
+
+#introduction li{
+    list-style: none;
+}
+
+#logoimg{
+    width: 500px;
+    float: left;
+}
+
+#submit{
+    background-image: url("../img/btn-entry-1.png");
+    width: 420px;
+    height: 80px;
+    float: left;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#getanswer{
+    background-image: url("../img/btn-entry-2.png");
+    width: 420px;
+    height: 80px;
+    float: right;
+    text-align: center;
+    margin-top: 10px;
+}
+    
+
+/*
+#keyvisual{
+    width: 100px;
+    float: left;
+    margin: 0 auto;
+}
+*/
