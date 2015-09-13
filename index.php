@@ -26,7 +26,12 @@
                 <li>CHEESE HACK!</li>
             </ul>
             
-            <p id="keyvisual"><img src="img/bg-cheese.jpg" alt="" width="100%"></p>
+            <div style="position:relative;">
+                <p id="keyvisual"><img src="img/bg-cheese.jpg" alt="" width="100%"></p>
+                <div id="kv-word" style="position:absolute; top:450px; left:150px; width:700px; font-size:50px;">
+                    世界を震わすチーズを創ろう！
+                </div>
+            </div>
             
             
             <form action="input_enq.php" method="get">

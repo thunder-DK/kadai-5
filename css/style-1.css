@@ -58,6 +58,11 @@ h1,h2,h3{
     list-style: none;
 }
 
+#kv-word{
+    font-color: white;
+    text-align: center;
+}
+
 #logoimg{
     width: 500px;
     float: left;
